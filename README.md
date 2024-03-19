@@ -8,7 +8,7 @@ Usage
 To use this project, follow the steps outlined in the Jupyter notebook. This will involve loading the necessary data, preprocessing the data, training the model, and making predictions. You can also modify the model parameters and retrain the model to improve its performance.
 
 Data Source
-The data used in this project was provided by upgrad-CREDIT CARD.
+The data used in this project was provided by upgrad-CREDIT CARD(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/creditcard.csv).
 
 Model Evaluation
 The performance of the model was evaluated using the clasification report. The model achieved an area under curve of 0.85, indicating good performance.
