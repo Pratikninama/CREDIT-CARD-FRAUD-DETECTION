@@ -15,7 +15,7 @@ The performance of the model was evaluated using the classification report. The 
 
 Additionally, the AUC values for the train and test datasets were calculated:
 
-Train dataset AUC of cad boost after 500 iteration: 0.86, Test dataset(AVG): 0.97 
+Train dataset AUC of cat boost after 500 iteration: 0.86, Test dataset(AVG): 0.97 
 
 Results
 The model was able to predict credit card fraud on historical credit card data accurately.
