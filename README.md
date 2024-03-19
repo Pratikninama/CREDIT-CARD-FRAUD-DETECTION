@@ -1,4 +1,4 @@
-                                                                              CREDIT CARD FRAUD DETECTION:
+                                                                   CREDIT CARD FRAUD DETECTION:
 This is a Cadboost model that predicts the demand for CREDIT CARD FRAUD DETECTION. The model uses historical credit card user data to make accurate predictions.
 
 Installation
